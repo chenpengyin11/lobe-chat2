@@ -1,5 +1,5 @@
 {
-  "background_color": "#000000",
+  "background_color": "#f2f2f2",
   "description": "An open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application",
   "display": "standalone",
   "icons": [
@@ -29,7 +29,7 @@
     }
   ],
   "id": "/",
-  "name": "LobeChat",
+  "name": "Bying彼印",
   "orientation": "portrait",
   "scope": "/",
   "screenshots": [
